@@ -9,13 +9,13 @@ git clone https://github.com/rasel-webdev/Tailwindcss.git
 Then, run the following command to install dependencies:
 
 ```
-    npm install
+npm install
 ```
 
 To run the project, run the following command:
 
 ```
-    npm run dev
+npm run dev
 ```
 
 Sample Link:
