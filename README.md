@@ -3,7 +3,7 @@
 Run the following command to clone the repository:
 
 ```
-git clone https://github.com/MdMostaFizurRahaman/tailwindcss-starter.git
+git clone https://github.com/rasel-webdev/Tailwindcss.git
 ```
 
 Then, run the following command to install dependencies:
