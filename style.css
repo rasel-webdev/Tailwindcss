@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+    @apply bg-cyan-500 px-6 py-2 text-sm text-white rounded;
+}
